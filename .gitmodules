@@ -1,0 +1,3 @@
+[submodule "translator-with-voice-and-watsonx"]
+	path = translator-with-voice-and-watsonx
+	url = https://github.com/Garbii1/LLM-voice-translator-assistant-STT-TTS-.git
