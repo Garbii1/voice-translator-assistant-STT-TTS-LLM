@@ -29,10 +29,6 @@ Inspired by the universal translator from "The Hitchhiker's Guide to the Galaxy,
   - STT: IBM Watson Speech-to-Text
   - TTS: IBM Watson Text-to-Speech
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/translator-architecture.png" width="600"/>
-</p>
-
 ---
 
 ## 🔄 How It Works
@@ -93,11 +89,6 @@ python server.py
 ```
 
 Visit [http://127.0.0.1:8000](http://127.0.0.1:8000) in your browser to use the app!
-
----
-
-## 💡 Acknowledgements
-This project was built as part of the "Babel Fish with LLM STT TTS" guided project on CognitiveClass.ai by the IBM Developer Skills Network.
 
 ---
 
